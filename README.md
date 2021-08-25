@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HereIsOlly
+- 👀 I’m interested in discord bot developing.
+- 🌱 I’m currently learning java script
+- 💞️ I’m looking to collaborate on discord bots
+- 📫 How to reach me? OvdeLuka#0002 on discord.
